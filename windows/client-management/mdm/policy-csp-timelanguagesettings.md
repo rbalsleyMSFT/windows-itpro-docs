@@ -117,7 +117,7 @@ The following list shows the supported values:
 
 <!--/Scope-->
 <!--Description-->
-Specifies the time zone to be applied to the device. This is the standard Windows name for the target time zone.
+Specifies the time zone to be applied to the device. This is the standard Windows name for the target time zone (e.g. Pacific Standard Time). To get the most current list of acceptable timezones, run tzutil.exe /l from a Windows computer.
 
 <!--/Description-->
 <!--SupportedValues-->
